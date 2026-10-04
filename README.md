@@ -302,7 +302,7 @@ Amazon_Sales_Performance_Analysis.xlsx
 
 
 ```markdown
-<img width="1756" height="867" alt="image" src="https://github.com/user-attachments/assets/7fa48570-8f73-4b42-a613-f8a903e418ed" />
+![Amazon Sales Dashboard](<img width="1756" height="867" alt="image" src="https://github.com/user-attachments/assets/7fa48570-8f73-4b42-a613-f8a903e418ed" />)
 
 
 ```
