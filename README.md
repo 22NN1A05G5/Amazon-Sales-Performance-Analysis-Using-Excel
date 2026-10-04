@@ -300,10 +300,10 @@ Amazon_Sales_Performance_Analysis.xlsx
 
 ## Dashboard Preview
 
-Add your dashboard screenshot here after completing the dashboard.
 
 ```markdown
-<img width="1756" height="867" alt="image" src="https://github.com/user-attachments/assets/181b876b-1d77-478c-b2ef-82eeb1723ce3" />
+<img width="1756" height="867" alt="image" src="https://github.com/user-attachments/assets/7fa48570-8f73-4b42-a613-f8a903e418ed" />
+
 
 ```
 
